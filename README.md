@@ -1,2 +1,9 @@
 # hello-world-
-first creation 
+
+//first creation 
+
+String temp = "Hello world!";
+System.out.println(temp);
+
+
+
